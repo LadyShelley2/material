@@ -6,15 +6,30 @@
 ### 课程篇
 
 1. [斯坦福大学课程《Deep Learning for Natural Language Processing》主页](http://cs224d.stanford.edu/)
+
 2. [斯坦福大学机器学习课程《Deep Learning for Natural Language Processing》教学材料](http://cs229.stanford.edu/materials.html)
+
 3. [斯坦福大学李飞飞课程：《Convolutional Neural Networks for Visual Recognition》](http://cs231n.stanford.edu/)
+
 4. [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/): 机器学习常用方法详解。
+
+5. [tanford University 2017年最新《Tensorflow与深度学习实战》](http://web.stanford.edu/class/cs20si/syllabus.html),[课程相关实战的github地址](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
+[视频教程地址](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg)
+
+6. [课件 | 香港科技大学三日速成课程 Google Drive 资料地址](https://drive.google.com/drive/folders/0B41Zbb4c8HVyY1F5Ml94Z2hodkE),
+[香港科技大学三日速成课程百度云盘资料地址](http://pan.baidu.com/s/1boGGzeR)
+
+7. [PPT + 视频 | 如何使用TensorFlow技术基于阿里云AI实现图像识别技术](https://zhuanlan.zhihu.com/p/27396780)
 
 ### 书籍篇
 
 1. [《Deep Learning》](http://www.deeplearningbook.org/)
 2. [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/)
 3. [python 学习](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/)：廖雪峰的 python 教程，可学习基本 Python 语法。
+
+### 项目篇
+
+1. [Github 机器学习话题热门项目集锦](https://github.com/topics/machine-learning)
 
 ### 文章篇
 
@@ -35,9 +50,3 @@
 6. [scikit-learn: Machine Learning in Python](http://scikit-learn.org/)
 7. [git 官网](https://git-scm.com/)： 代码版本管理与团队协作
 8. [github](https://github.com/)： 代码托管平台
-
-### 平台推荐
-
-#### 新闻资讯类
-
-#### 公众号推荐
